@@ -15,6 +15,7 @@ int main() {
 	VAR_DUMP(stringshootr);
 	VAR_DUMP(a);
 	hoge h;
+	LOG("end logging");
 	return 0;
 }
 
